@@ -1,1 +1,9 @@
-{}
+{
+    "@versions": {
+        "26.3": {
+            "pack_format": "121.0",
+            "link": "https://github.com/kinderhead/libminecraft/releases/download/release/minecraft@26.3.zip",
+            "dependencies": {}
+        }
+    }
+}
